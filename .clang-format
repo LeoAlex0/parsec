@@ -1,0 +1,21 @@
+BasedOnStyle: LLVM
+PointerAlignment: Right
+IndentWidth: 2
+MaxEmptyLinesToKeep: 1
+AllowShortFunctionsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: true
+AlignTrailingComments: true
+SpacesInSquareBrackets: true
+# SpacesInParentheses : true
+NamespaceIndentation: All
+AlignConsecutiveDeclarations: true
+AlignConsecutiveAssignments: true
+SpaceBeforeAssignmentOperators: true
+SpacesInContainerLiterals: true
+IndentWrappedFunctionNames: true
+KeepEmptyLinesAtTheStartOfBlocks: true
+BreakConstructorInitializersBeforeComma: true
+AllowAllParametersOfDeclarationOnNextLine: true
+# SpaceAfterCStyleCast: true
+TabWidth: 2
+UseTab: Never

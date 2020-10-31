@@ -1,0 +1,10 @@
+# editor
+.vscode
+
+# backup
+*~
+
+# build
+build*
+bin
+lib
